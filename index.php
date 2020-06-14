@@ -5,7 +5,7 @@ Welcome to Jubin's cloud practice page
 
 print 'ifconfig';
 
-print 'aya kuch samjh me?'
+print 'aya kuch samjh me?';
 
 ?>
 </pre>
