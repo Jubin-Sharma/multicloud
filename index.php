@@ -4,5 +4,8 @@ Welcome to Jubin's cloud practice page
 <?php
 
 print 'ifconfig';
+
+print 'aya kuch samjh me?'
+
 ?>
 </pre>
